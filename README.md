@@ -1,4 +1,4 @@
-1 -2 E
+1 -2 E -3 Z
 
 ## Getting Started
 
