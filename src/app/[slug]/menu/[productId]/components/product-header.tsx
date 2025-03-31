@@ -36,6 +36,7 @@ const ProductHeader = ({ product }: ProductHeaderProps) => {
         alt={product.name}
         fill
         className="object-contain"
+        priority
       />
     </div>
   );

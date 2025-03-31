@@ -34,7 +34,6 @@ const RestaurantMenuPage = async ({
   if (!restaurant) {
     return notFound();
   }
-  console.log(restaurant.menuCategories);
   return (
     <div>
       <RestaurantHeader restaurant={restaurant} />
